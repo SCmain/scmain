@@ -3,11 +3,6 @@
  *              Copyright (c) 2007 SCFI Automation, Inc.
  * Code taken over by Georges Sancosme after the author (Canh Le) passed away and
  * published under GNU GPLv3
- *
- * File Name            : alfio.c
- * Description          : Contains access Functions for Wafer Calibration Structure
- *                  as well as Get and Set Functions for Aligner module variables
- *                  needed from outside the module
  * Original Author      : Canh Le (Deceased)
  * Current Maintainer   : Georges Sancosme (georges@sancosme.net)
  * Maintained Since     : 13.01.2025
